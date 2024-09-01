@@ -1,14 +1,27 @@
 # SE-project
-web - based malware scanner that uses hashing or hash matching and API calls from malware sandbox platforms for real-time and updated malware samples
+## A web - based malware scanner that uses hash matching and API calls from malware sandbox platforms for real-time scanning and updated malware samples
 
 
-Group 3
-PO:   Dioca, John Rolly
-TL:   Singayan, Lloyd Vincent
 
-UI/UX:  Mabano Chiello
-        Muripaga, Raihanie
-        Pabillaran, Trisha Mae
+### Project Manager:   
+ Dioca, John Rolly
 
-Devs:   Quirog, Jireh Angelo
-        Salalima, Jack
+### Tech Lead:   
+Singayan, Lloyd Vincent
+
+
+
+### UI/UX:  
+Muripaga, Raihanie
+
+Pabillaran, Trisha Mae
+
+Mabano Chiello
+
+
+
+### Developers:   
+
+Salalima, Jack
+
+Quirog, Jireh Angelo
